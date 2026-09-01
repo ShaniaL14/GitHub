@@ -2,5 +2,7 @@
 title: "Analysis 1"
 author: "ShaniaL14"
 format: html
+"Shania Leubin is a data maestro!"
+
 ---
 
